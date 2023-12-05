@@ -1,4 +1,4 @@
-#### <h1 align="center"><img width='1300' height='733' src="./src/livrariaDaKimzin.gif"/></h1>
+#### <h1 align="center"><img width='1000' height='533' src="./src/livrariaDaKimzin.gif"/></h1>
 
 # _Livraria_
 - _Trata-se de um projeto simples para treinar habilidades._
